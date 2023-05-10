@@ -30,5 +30,4 @@ public class GameController {
 		GameDTO result = gameService.findByID(id);
 		return result;
 	}
-
 }
